@@ -3,9 +3,6 @@
 This project predicts logos of brands using doodles as input. 
 It uses a Webcam to capture video and tracks path of specific coloured objects to draw the doodle on the webcam output window.
 
-Please refer: 
-1) https://github.com/akshaybahadur21/Devanagiri-Recognizer 
-2) https://github.com/akshaybahadur21/QuickDraw
 
 Logos used:
 * Adidas 
